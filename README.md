@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=A6B7CA)
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning DL, ML and DE
+- 🌱 I’m trying to improve in DS, DA and DE
 - 📫 How to reach me: Telegram – @Litweine
 - 😄 Pronouns: He/Tractor 🚜
 - ⚡ Fun fact: I ❤️ 🐀
