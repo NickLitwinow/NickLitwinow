@@ -5,5 +5,4 @@
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m trying to improve in DS, DA and DE
 - 📫 How to reach me: Telegram – @Litweine
-- 😄 Pronouns: He/Tractor 🚜
 - ⚡ Fun fact: I ❤️ 🐀
