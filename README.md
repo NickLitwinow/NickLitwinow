@@ -25,5 +25,3 @@
 
 
 📫 **HOW TO REACH ME**: Telegram – @Litweine
-
-👀 **DON'T FORGET TO CHECK OUT MY OTHER WORKS ✨**
