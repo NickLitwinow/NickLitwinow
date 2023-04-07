@@ -13,7 +13,7 @@
  - [Testing and Validating](https://www.kaggle.com/code/nicklitwinow/main-challenges-of-machine-learning-6-6)
 
 🏆 **ACHIEVEMENTS**
- - Kaggle Notebooks Expert, 2023 – 2 silver medals, 3 bronze medals, 120+ Upvotes and 25+ Forks in total
+ - Kaggle Notebooks Expert, 2023 – 2 silver medals, 3 bronze medals, 170+ Upvotes and 30+ Forks in total
  - Kaggle Datasets Expert, 2022 – 4 bronze medals, 120+ Upvotes in total
  - School TED Talks Conference, 2018 – Third place award, Future LAB: Science, Valeology, Technologies, Innovations
  - (GO global), King’s Education, British Council, 2017 – Participation in the English language competition
