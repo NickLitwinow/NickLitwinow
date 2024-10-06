@@ -11,7 +11,7 @@
 - Telegram – @Litweine
 - E-mail – nicklitvinow@gmail.com
 
-🔭 **CHECK OUT MY MACHINE LEARNING SERIES**
+🔭 **CHECK OUT MY MACHINE LEARNING ARTICLES SERIES**
  - [Introduction to Machine Learning](https://www.kaggle.com/code/nicklitwinow/introduction-to-machine-learning-1-6)
  - [Types of Machine Learning Systems](https://www.kaggle.com/code/nicklitwinow/types-of-machine-learning-systems-2-6)
  - [Batch and Online Learning](https://www.kaggle.com/nicklitwinow/batch-and-online-learning-3-6)
