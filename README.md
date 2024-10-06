@@ -24,4 +24,6 @@
 - **OTHER**: **Git** for tracking changes in the source code, **Docker** for deploying models to production, **Jupyter Notebook** for code creation
 
 
-📫 **HOW TO REACH ME**: Telegram – @Litweine
+📫 **HOW TO REACH ME**:
+- Telegram – @Litweine
+- E-mail – nicklitvinow@gmail.com
