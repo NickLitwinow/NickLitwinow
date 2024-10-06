@@ -7,6 +7,10 @@
 
 👤 **ABOUT ME**: I’m a Data Engineer with hands-on experience in building data-driven solutions using technologies like Python, Pandas, Apache Airflow, PostgreSQL, Cassandra, etc. My expertise lies in ETL pipeline development, data processing, and workflow orchestration, with a strong background in automating data workflows and optimizing backend architectures. I've successfully worked on projects involving data integration, AI/ML model deployment, and cloud-based data solutions. While I have experience in both frontend and backend development, my primary focus and passion lie in data engineering and scalable backend systems.
 
+📫 **HOW TO REACH ME**:
+- Telegram – @Litweine
+- E-mail – nicklitvinow@gmail.com
+
 🔭 **CHECK OUT MY MACHINE LEARNING SERIES**
  - [Introduction to Machine Learning](https://www.kaggle.com/code/nicklitwinow/introduction-to-machine-learning-1-6)
  - [Types of Machine Learning Systems](https://www.kaggle.com/code/nicklitwinow/types-of-machine-learning-systems-2-6)
@@ -30,7 +34,3 @@ Verify at: https://coursera.org/share/fafeb829805e09648a176fce18dfbc08
 
 - School TED Talks Conference, 2018 – Third place award, “Future LAB: Science, Valeology, Technologies, Innovations”\
 View at: https://drive.google.com/file/d/1vaaK7Ivi3aGQUf76kVAuOeLP_9dtXn82/view?usp=drive_link
-
-📫 **HOW TO REACH ME**:
-- Telegram – @Litweine
-- E-mail – nicklitvinow@gmail.com
