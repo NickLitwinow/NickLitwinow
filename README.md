@@ -1,14 +1,8 @@
-<div align="center">
- 
- ![Demo](https://user-images.githubusercontent.com/44932745/209538332-6ecf3684-785a-439a-8f72-21e352de4e9f.png)
-</div>
-
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=A6B7CA)
 
-👤 **ABOUT ME**: I’m a Data Engineer with hands-on experience in building data-driven solutions using technologies like Python, Pandas, Apache Airflow, PostgreSQL, Cassandra, etc. My expertise lies in ETL pipeline development, data processing, and workflow orchestration, with a strong background in automating data workflows and optimizing backend architectures. I've successfully worked on projects involving data integration, AI/ML model deployment, and cloud-based data solutions. While I have experience in both frontend and backend development, my primary focus and passion lie in data engineering and scalable backend systems.
+👤 **ABOUT ME**: I’m a Saigon based Data Engineer. My expertise lies in ETL pipelines, algorithms, databases, websites and other software products for startups and already established corporations. While I have experience in both frontend and backend development, my primary focus and passion lie in data engineering and scalable backend systems.
 
 📫 **HOW TO REACH ME**:
-- Telegram – @Litweine
 - E-mail – nicklitvinow@gmail.com
 
 🔭 **CHECK OUT MY MACHINE LEARNING ARTICLES SERIES**
